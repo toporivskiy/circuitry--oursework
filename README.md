@@ -1,2 +1,2 @@
-# circuitry--oursework
+# Сircuitry Сoursework
 Схемотехніка. 4 семестр. Курсова робота.
